@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Summer\android-fundamentals-master\android-fundamentals-master\MaterialMe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e889041a2819d15e0b6ac8b0af01c6dc113dd863">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\MaterialMe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_aaaf911249eae9bc11b7b9a24935f43ad908b71b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\MaterialMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.5.2_569b4d5b4c2e28e49caa3e9b6e297a5c8190f977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.android\build-cache\10b1618b1580804ff5621e4aee4d2a8dd265bc0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\MaterialMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43d4d43773456c0520663123a54c1744da5977ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.android\build-cache\807bf1fed207981135c4a71e595a43a368086432\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\MaterialMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e56c3d8b060c49e3fb41fc546644cea6599fb4c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Summer\android-fundamentals-master\android-fundamentals-master\MaterialMe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\MaterialMe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f02872a299ff28bdb7aae078562a95b2713fc470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.android\build-cache\65fc0d13b157385113c180051801d9260674260f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="D:\Summer\android-fundamentals-master\android-fundamentals-master\MaterialMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd912be4825d049d58709bd14e2bd58337383d52\classes.dex" />
+    </item>
+
+</items>
